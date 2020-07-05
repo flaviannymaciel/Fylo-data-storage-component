@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo data storage component
 
-This a Frontend Mentor challenge. **[SEE HERE](https://flaviannymaciel.github.io/fylo_data_storage_component/)**
+This a Frontend Mentor challenge. **[SEE HERE](https://flaviannymaciel.github.io/data_storage_component/index.html)**
 
 ## The challenge
 
